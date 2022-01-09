@@ -20,8 +20,9 @@
 | 11      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/7282aae80f0fb5422e4d473cd7c331f284a5feb7/README.md)                             |
 
 # My Data Science Projects
+
 ## Business Analytics Projects
-[Project 1 - Market Research and Recommendation and Visualization Technique for Business Decision Making](https://github.com/dikoharyadhanto/data-analysis-project-business-decision-research/blob/b60f4e56a729738efbd7c2240b0187654194b0cb/Data_Analyst_Project_Business_Decision_Research.ipynb)
+1. [Project 1 - Market Research and Recommendation and Visualization Technique for Business Decision Making](https://github.com/dikoharyadhanto/data-analysis-project-business-decision-research/blob/b60f4e56a729738efbd7c2240b0187654194b0cb/Data_Analyst_Project_Business_Decision_Research.ipynb)
 
 ## Machine Learning Projects
 1. [Project 1 - Brain Tumor Classification](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Brain_Tumor_Classification.ipynb)
