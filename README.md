@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me dikoharyadhanto74@gmail.com
 
-# My Data Science Documentation
+# My Data Science Documentations
 
 | **No**  | **Documentation**                                                                                                                                                   |
 | ------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,6 +16,20 @@
 | 7       | [Data Visualization](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/ec08eaf95d08d5a0e1a55839a5274f60f05de5d9/README.md)                   |
 | 8       | [Machine Learning](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/aa2199bbf1a18a32e8b958f2009786557d71dd61/README.md)                       |
 | 9       | [AI Deep Learning](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/43327767430d3e3216e35e4597f376639093d168/README.md)                       |
+| 10      | [Google Cloud](https://github.com/dikoharyadhanto/Google-Cloud-Platform/blob/fa16466567c0791fbc0bbdb89cdd3621cf12b715/README.md)                                    |
+| 11      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/7282aae80f0fb5422e4d473cd7c331f284a5feb7/README.md)                             |
+
+# My Data Science Projects
+## Business Analytics Projects
+[Project 1 - Market Research and Recommendation and Visualization Technique for Business Decision Making](https://github.com/dikoharyadhanto/data-analysis-project-business-decision-research/blob/b60f4e56a729738efbd7c2240b0187654194b0cb/Data_Analyst_Project_Business_Decision_Research.ipynb)
+
+## Machine Learning Projects
+[Project 1 - Brain Tumor Classification](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Brain_Tumor_Classification.ipynb)
+[Project 2 - Image Classification with CNN - Classifying Rock, Paper, and Scissors_Image](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Image_Classification_with_CNN_Classifying_Rock_Paper_Scissors_Image.ipynb)
+[Project 3 - [Corona Tweets Classification](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Project_NLP_Corona_Tweet_Classification.ipynb)
+[Project 4 - [Time Series Forecasting - Prediction of New York Stock Exchange Data in 2022](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Project_Stock_Exchange_Data.ipynb)
+[Project 5 - [Sign Language Images Classification](https://github.com/dikoharyadhanto/Machine_Learning_Project/blob/f9bce42e38182188122b7d32f07cf0af6d8f01fd/Sign_Language_Image_Classification.ipynb)
+
 
 
 <p align="left">
