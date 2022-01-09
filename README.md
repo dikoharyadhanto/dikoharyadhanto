@@ -4,13 +4,18 @@
 - 📫 How to reach me dikoharyadhanto74@gmail.com
 
 # My Data Science Documentation
-[Notebook 14A - Basic Python Programming](https://github.com/dikoharyadhanto/Python-Documentation/blob/1e2a193bcab3084a936deda95883c65499b1c913/Basic_Programming_Python.ipynb)
 
-| **No**  | **Documentation**                                                                                                                                                    |
-| ------  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | [Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/e14c36843cf565acc5524369349e42f6ba4bc830/README.md)                                            |
-| 2       | [Python API Webscrapping](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/ab532fa2d0e04e4aa827e3e15ca464c1e129a083/README.md)           |
-
+| **No**  | **Documentation**                                                                                                                                                   |
+| ------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | [Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/e14c36843cf565acc5524369349e42f6ba4bc830/README.md)                                           |
+| 2       | [Python API Webscrapping](https://github.com/dikoharyadhanto/API-Webscraping-Python-Documentation/blob/ab532fa2d0e04e4aa827e3e15ca464c1e129a083/README.md)          |
+| 3       | [SQL-Python](https://github.com/dikoharyadhanto/SQL-Python-Integration-Documentation/blob/c1cab0ccbe1ecb8ede61683904a4d3bc0a6c9557/README.md)                       |
+| 4       | [Numpy](https://github.com/dikoharyadhanto/Numpy-Documentation/blob/9dbac20f786235e2b61839f77ca129567e7f8c9e/README.md)                                             |
+| 5       | [Pandas](https://github.com/dikoharyadhanto/Pandas-Documentation/blob/1b6e116b4e81ace5bf8b7eb1fd6460d80696c0d1/README.md)                                           |
+| 6       | [Data Preparation](https://github.com/dikoharyadhanto/Data-Preparation-Documentation/blob/8d157c5794779c15ac3d2e8912a492d87a0fc66e/README.md)                       |
+| 7       | [Data Visualization](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/ec08eaf95d08d5a0e1a55839a5274f60f05de5d9/README.md)                   |
+| 8       | [Machine Learning](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/aa2199bbf1a18a32e8b958f2009786557d71dd61/README.md)                       |
+| 9       | [AI Deep Learning](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/43327767430d3e3216e35e4597f376639093d168/README.md)                       |
 
 
 <p align="left">
