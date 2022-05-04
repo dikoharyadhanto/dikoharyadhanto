@@ -17,8 +17,8 @@
 | 8       | [Machine Learning](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/aa2199bbf1a18a32e8b958f2009786557d71dd61/README.md)                       |
 | 9       | [AI Deep Learning](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/43327767430d3e3216e35e4597f376639093d168/README.md)                       |
 | 10      | [Google Cloud](https://github.com/dikoharyadhanto/Google-Cloud-Platform/blob/fa16466567c0791fbc0bbdb89cdd3621cf12b715/README.md)                                    |
-| 11      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/aa544de2a0994a4a43427a4ff448020d8980fa53/README.md)                             |
-| 12      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/3d3cad66b932c5d92805992993fb5303944e0041/README.md)                           |
+| 11      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/022f11fba0004458686a316d728cf6b4f2146936/README.md)                             |
+| 12      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/8fc53a73de607d682b4222b72d24b4627e303208/README.md)                           |
 
 
 # My Data Science Projects
