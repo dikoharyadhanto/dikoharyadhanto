@@ -21,9 +21,9 @@
 
 | **No**  | **Documentation**                                                                                                                                                   |
 | ------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/6160f461d6fc1228d4b76901f0f155077c8e8a74/README.md)                             |
-| 11      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/8fc53a73de607d682b4222b72d24b4627e303208/README.md)                           |
-| 12      | [Geemap for Python](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/2c42bd0f421c634a2a15c7eba9b027b3ba4ba830/README.md)                           |
+| 1      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/6160f461d6fc1228d4b76901f0f155077c8e8a74/README.md)                             |
+| 2      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/8fc53a73de607d682b4222b72d24b4627e303208/README.md)                           |
+| 3      | [Geemap for Python](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/2c42bd0f421c634a2a15c7eba9b027b3ba4ba830/README.md)                           |
 
 # My Data Science Projects
 
