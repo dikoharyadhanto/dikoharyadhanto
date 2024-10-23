@@ -16,10 +16,9 @@
 | 7       | [Data Visualization](https://github.com/dikoharyadhanto/Data-Visualization-Documentation/blob/ec08eaf95d08d5a0e1a55839a5274f60f05de5d9/README.md)                   |
 | 8       | [Machine Learning](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/aa2199bbf1a18a32e8b958f2009786557d71dd61/README.md)                       |
 | 9       | [AI Deep Learning](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/43327767430d3e3216e35e4597f376639093d168/README.md)                       |
-| 10      | [Google Cloud](https://github.com/dikoharyadhanto/Google-Cloud-Platform/blob/fa16466567c0791fbc0bbdb89cdd3621cf12b715/README.md)                                    |
-| 11      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/b771a5f32edd9d100f8b1b6569ed9970931bc0f9/README.md)                             |
-| 12      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/8fc53a73de607d682b4222b72d24b4627e303208/README.md)                           |
-| 13      | [Geemap for Python](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/58ffc373b6ec8a4df6afa5e2ca2ce23b93d70070/README.md)                           |
+| 10      | [Google Earth Engine](https://github.com/dikoharyadhanto/GEE_Documentation/blob/b771a5f32edd9d100f8b1b6569ed9970931bc0f9/README.md)                             |
+| 11      | [Geopandas](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/8fc53a73de607d682b4222b72d24b4627e303208/README.md)                           |
+| 12      | [Geemap for Python](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/58ffc373b6ec8a4df6afa5e2ca2ce23b93d70070/README.md)                           |
 
 # My Data Science Projects
 
