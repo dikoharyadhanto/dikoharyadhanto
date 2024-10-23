@@ -17,7 +17,7 @@
 | 8       | [Machine Learning](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/aa2199bbf1a18a32e8b958f2009786557d71dd61/README.md)                       |
 | 9       | [AI Deep Learning](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/43327767430d3e3216e35e4597f376639093d168/README.md)                       |
 
-# My Data Science Documentations
+# My GIS Documentations
 
 | **No**  | **Documentation**                                                                                                                                                   |
 | ------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
